@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[nytimes.com](https://www.nytimes.com/2026/06/08/technology/ai-busy-executives-productivity.html)",
+    "[wsj.com](https://www.wsj.com/articles/too-much-work-to-do-have-your-digital-twin-handle-it-2026)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gemini-3-5-flash-computer-use/)",
+    "[scmedia.com](https://www.scmedia.com/news/shell-injection-flaw-found-in-open-source-ai-agents)",
+    "[mit.edu](https://news.mit.edu/2026/agentic-ai-today-0630)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reuse_comparison_layout; AIDA=checked; hero_lines=2.4; bento_density=grid-auto-flow:dense; competitors_label_sweep=ok; CTA_contrast=black_on_paper_ok",
+  "generated_at": "2026-07-04T04:55:34.098136+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A conversion\u2011focused niche landing page for executives who don\u2019t need more chat \u2014 they need a personal AI assistant that actually runs their work. This page positions Super as the sharper alternative to chat\u2011first assistants by highlighting real computer use, durable workflows, and a reusable computer-use cache, grounded in current reporting on agentic AI, executive productivity, and computer\u2011use agents."
+}
